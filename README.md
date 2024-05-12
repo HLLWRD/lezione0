@@ -52,5 +52,4 @@
 
 
 ## Quiz di Programmazione Base
-  - **Esercizio**: Rispondi alle domande del quiz per testare le tue conoscenze di programmazione base.
-- [Testo](https://dartpad.dev/?id=022da095fa72894d35743f6c8bec848d)
+  - Rispondi alle domande del [quiz](https://dartpad.dev/?id=022da095fa72894d35743f6c8bec848d) per testare le tue conoscenze di programmazione base.
