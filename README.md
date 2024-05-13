@@ -1,5 +1,15 @@
 # Esercizi di Programmazione Base in Dart
 
+## DartPad
+
+DartPad è un ambiente di sviluppo online gratuito che permette di scrivere, eseguire e condividere codice Dart direttamente nel browser. È uno strumento ideale per sperimentare rapidamente con Dart e Flutter senza necessità di installazione. Per iniziare, basta cliccare sui link forniti e potrai immediatamente modificare ed eseguire il codice esistente.
+
+## Istruzioni
+- Clicca sul link fornito per aprire l'ambiente di sviluppo DartPad.
+- Modifica il codice per completare l'esercizio.
+- Clicca sul pulsante `Run` per eseguire il codice.
+- Verifica che l'output sia corretto confrontandolo con la soluzione proposta.
+
 ## Esercizio 1: Hello, World!
   - **Esercizio**: Scrivi un programma in Dart che stampa "Hello, World!" sul terminale.
 - [Testo](https://dartpad.dev/?id=79e02b7ddb3775a876dcba2be8c3335e)
